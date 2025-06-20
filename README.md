@@ -1,3 +1,10 @@
-# bookbot
+# BookBot
 
-BookBot is my first [Boot.dev](https://www.boot.dev) project!
+Generates a report from input text, and outputs word and character counts.
+
+Built with Python during Boot.Dev backend course.
+
+My Boot.Dev profile: https://www.boot.dev/u/cldn
+
+![Demo of bookbot](bookbot.png)
+
